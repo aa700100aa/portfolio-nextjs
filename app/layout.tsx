@@ -7,7 +7,7 @@ import Footer from "./_components/Footer";
 export const metadata: Metadata = {
   metadataBase: new URL("https://portfolio-nextjs-five-beige.vercel.app/"),
   title: {
-    template: "%s | コーポレートサイト",
+    template: "%s | コーポレートサイトテスト",
     default: "コーポレートサイト",
   },
   description: "ディスクリプション",
