@@ -11,6 +11,9 @@ export const metadata: Metadata = {
     default: "コーポレートサイト",
   },
   description: "ディスクリプション",
+  robots: {
+    index: false, // noindexの設定
+  },
   openGraph: {
     title: "コーポレートサイト",
     description: "ディスクリプション",
